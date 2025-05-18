@@ -1,0 +1,12 @@
+2025-05-18 13:53:06.594580: ETL Job Started.
+2025-05-18 13:53:06.615640: CSV data extracted successfully.
+2025-05-18 13:53:06.638226: JSON data extracted successfully.
+2025-05-18 13:53:07.400062: API data extracted successfully.
+2025-05-18 13:53:07.419544: CSV data transformed successfully.
+2025-05-18 13:53:07.428037: JSON data transformed successfully.
+2025-05-18 13:53:07.431724: API data transformed successfully.
+2025-05-18 13:53:07.447782: Loaded 13 records into the database.
+2025-05-18 13:53:07.460983: Loaded 20 records into the database.
+2025-05-18 13:53:07.469755: Loaded 10 records into the database.
+2025-05-18 13:53:07.469755: ETL Job Completed.
+
